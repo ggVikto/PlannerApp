@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "471255931019",
+    "firebase_url": "https://userdata-59575-default-rtdb.firebaseio.com",
+    "project_id": "userdata-59575",
+    "storage_bucket": "userdata-59575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471255931019:android:5c6fc5c7306b1692fedc8e",
+        "android_client_info": {
+          "package_name": "com.example.myappagain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQO_F5QvZoxDjFg726NyB15G20EFij6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471255931019:android:b93a2e458df514e7fedc8e",
+        "android_client_info": {
+          "package_name": "com.example.notetodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQO_F5QvZoxDjFg726NyB15G20EFij6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471255931019:android:d1865fa4999786aafedc8e",
+        "android_client_info": {
+          "package_name": "com.example.plannerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQO_F5QvZoxDjFg726NyB15G20EFij6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

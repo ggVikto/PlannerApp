@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NoteToDoApp</string>
+    <string name="planner">PLANNER</string>
+    <string name="todo">TODO</string>
+    <string name="Registration">Регистрация</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">email</string>
+    <string name="password">Пароль</string>
+    <string name="repeatpassword">Повторите пароль</string>
+    <string name="Register">Зарегестрироваться</string>
+    <string name="logintextview">Войти</string>
+    <string name="alreadyhaveanaccount">Уже есть аккаунт?</string>
+    <string name="todo1">TODO</string>
+    <string name="enter">Войти</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="text">Текст</string>
+    <string name="title">Заголовок</string>
+    <string name="logOut">Выйти из аккаунта</string>
+</resources>
